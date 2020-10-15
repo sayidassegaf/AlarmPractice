@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmPractice</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="alarm_on_toast">Alarm Dinyalakan</string>
+    <string name="alarm_off_toast">Alarm Dimatikan</string>
+</resources>
